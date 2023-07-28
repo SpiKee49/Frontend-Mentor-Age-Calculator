@@ -10,7 +10,7 @@ function App() {
         <h1 className="text-2xl font-bold px-3 text-center">
           Improve your front-end skills by building projects
         </h1>
-        <span className="text-center px-5 text-md leading-5 text-gray-500 mb-5">
+        <span className="text-center px-5 text-md leading-5 text-highlight mb-5">
           Scan the QR code to visit Frontend Mentor and take
           your coding skills to the next level
         </span>

@@ -5,3 +5,11 @@
 body {
   @apply bg-sky-200;
 }
+
+@layer base {
+  :root {
+    /* For hsl(198deg 93% 60% / <alpha-value>) */
+    --color-highlight: 259deg 100% 65%;
+    --color-light-red: 0deg 100% 65%;
+  }
+}
